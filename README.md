@@ -1,4 +1,4 @@
-# Project 1
+# Project 0
 
 CSE 124 Fall 2022 Project 1 Starter Code
 
